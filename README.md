@@ -4,7 +4,7 @@ This repository contains code for a ray tracer that reads input from a text file
 
 # Disclaimer
 
-Until attempting to write this ray tracer, I had never written code in C++. So, I apologize for all the memory leaks that I did not deal with. Additionally, I had never taken any formal course in College about graphics or worked with openGL again. So, please excuse my incorrect coding conventions.
+Until attempting to write this ray tracer, I had never written code in C++. So, I apologize for all the memory leaks that I did not deal with. Additionally, I had never taken any formal course in College about graphics or worked with openGL before. So, please excuse my incorrect coding conventions.
 
 # Usage
 
